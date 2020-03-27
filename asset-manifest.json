@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/drogasil/static/js/main.6ee5a646.chunk.js",
-    "main.js.map": "/drogasil/static/js/main.6ee5a646.chunk.js.map",
-    "runtime-main.js": "/drogasil/static/js/runtime-main.daee361f.js",
-    "runtime-main.js.map": "/drogasil/static/js/runtime-main.daee361f.js.map",
-    "static/js/2.819f2315.chunk.js": "/drogasil/static/js/2.819f2315.chunk.js",
-    "static/js/2.819f2315.chunk.js.map": "/drogasil/static/js/2.819f2315.chunk.js.map",
-    "index.html": "/drogasil/index.html",
-    "precache-manifest.cfab48cc479a12268f9a3a0b1dc11409.js": "/drogasil/precache-manifest.cfab48cc479a12268f9a3a0b1dc11409.js",
-    "service-worker.js": "/drogasil/service-worker.js",
-    "static/js/2.819f2315.chunk.js.LICENSE.txt": "/drogasil/static/js/2.819f2315.chunk.js.LICENSE.txt"
+    "main.js": "/raiadrogasil/static/js/main.e7953107.chunk.js",
+    "main.js.map": "/raiadrogasil/static/js/main.e7953107.chunk.js.map",
+    "runtime-main.js": "/raiadrogasil/static/js/runtime-main.5903be3f.js",
+    "runtime-main.js.map": "/raiadrogasil/static/js/runtime-main.5903be3f.js.map",
+    "static/js/2.dd66b370.chunk.js": "/raiadrogasil/static/js/2.dd66b370.chunk.js",
+    "static/js/2.dd66b370.chunk.js.map": "/raiadrogasil/static/js/2.dd66b370.chunk.js.map",
+    "index.html": "/raiadrogasil/index.html",
+    "precache-manifest.69bf008be2412a6a4ce81b41cc54af9b.js": "/raiadrogasil/precache-manifest.69bf008be2412a6a4ce81b41cc54af9b.js",
+    "service-worker.js": "/raiadrogasil/service-worker.js",
+    "static/js/2.dd66b370.chunk.js.LICENSE.txt": "/raiadrogasil/static/js/2.dd66b370.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.daee361f.js",
-    "static/js/2.819f2315.chunk.js",
-    "static/js/main.6ee5a646.chunk.js"
+    "static/js/runtime-main.5903be3f.js",
+    "static/js/2.dd66b370.chunk.js",
+    "static/js/main.e7953107.chunk.js"
   ]
 }
