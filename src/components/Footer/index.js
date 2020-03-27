@@ -44,7 +44,7 @@ const Footer = () => {
         RD 2017. Todos os direitos reservado
       </p>
       <div className="icons">
-        <Link to="/raiadrogaraia">
+        <Link to="/raiadrogasil">
           <img src={raia} alt="drogaraia"/>
         </Link>
 

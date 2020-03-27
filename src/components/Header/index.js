@@ -105,7 +105,7 @@ const Header = () => {
 
   return (
     <Container>
-      <Link to="/">
+      <Link to="/raiadrogasil">
         <img src={logoImg} alt="RaiaDrogasil"/>
       </Link>
       <Button
