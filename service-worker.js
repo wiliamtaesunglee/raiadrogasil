@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/raiadrogasil/precache-manifest.34cc9a8ef296f2599c42714fb3e17de8.js"
+  "/raiadrogasil/precache-manifest.24f3722ef7fdd9aebead8177c5828d42.js"
 );
 
 self.addEventListener('message', (event) => {
