@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/raiadrogasil/static/js/main.c8351b49.chunk.js",
-    "main.js.map": "/raiadrogasil/static/js/main.c8351b49.chunk.js.map",
-    "runtime-main.js": "/raiadrogasil/static/js/runtime-main.5903be3f.js",
-    "runtime-main.js.map": "/raiadrogasil/static/js/runtime-main.5903be3f.js.map",
-    "static/js/2.dd66b370.chunk.js": "/raiadrogasil/static/js/2.dd66b370.chunk.js",
-    "static/js/2.dd66b370.chunk.js.map": "/raiadrogasil/static/js/2.dd66b370.chunk.js.map",
-    "index.html": "/raiadrogasil/index.html",
-    "precache-manifest.24f3722ef7fdd9aebead8177c5828d42.js": "/raiadrogasil/precache-manifest.24f3722ef7fdd9aebead8177c5828d42.js",
-    "service-worker.js": "/raiadrogasil/service-worker.js",
-    "static/js/2.dd66b370.chunk.js.LICENSE.txt": "/raiadrogasil/static/js/2.dd66b370.chunk.js.LICENSE.txt"
+    "main.js": "/static/js/main.c8351b49.chunk.js",
+    "main.js.map": "/static/js/main.c8351b49.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0d1fce72.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0d1fce72.js.map",
+    "static/js/2.799101fd.chunk.js": "/static/js/2.799101fd.chunk.js",
+    "static/js/2.799101fd.chunk.js.map": "/static/js/2.799101fd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a81bc3cd112c7dc82940f5c65bbabd9a.js": "/precache-manifest.a81bc3cd112c7dc82940f5c65bbabd9a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.799101fd.chunk.js.LICENSE.txt": "/static/js/2.799101fd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5903be3f.js",
-    "static/js/2.dd66b370.chunk.js",
+    "static/js/runtime-main.0d1fce72.js",
+    "static/js/2.799101fd.chunk.js",
     "static/js/main.c8351b49.chunk.js"
   ]
 }
