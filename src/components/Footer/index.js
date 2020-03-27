@@ -48,7 +48,7 @@ const Footer = () => {
           <img src={raia} alt="drogaraia"/>
         </Link>
 
-        <Link to="/drogasil">
+        <Link to="/">
           <img src={drogasil} alt="drogasil"/>
         </Link>
 
