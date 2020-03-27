@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.c8351b49.chunk.js",
-    "main.js.map": "/static/js/main.c8351b49.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0d1fce72.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0d1fce72.js.map",
-    "static/js/2.799101fd.chunk.js": "/static/js/2.799101fd.chunk.js",
-    "static/js/2.799101fd.chunk.js.map": "/static/js/2.799101fd.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a81bc3cd112c7dc82940f5c65bbabd9a.js": "/precache-manifest.a81bc3cd112c7dc82940f5c65bbabd9a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.799101fd.chunk.js.LICENSE.txt": "/static/js/2.799101fd.chunk.js.LICENSE.txt"
+    "main.js": "/drogasil/static/js/main.6ee5a646.chunk.js",
+    "main.js.map": "/drogasil/static/js/main.6ee5a646.chunk.js.map",
+    "runtime-main.js": "/drogasil/static/js/runtime-main.daee361f.js",
+    "runtime-main.js.map": "/drogasil/static/js/runtime-main.daee361f.js.map",
+    "static/js/2.819f2315.chunk.js": "/drogasil/static/js/2.819f2315.chunk.js",
+    "static/js/2.819f2315.chunk.js.map": "/drogasil/static/js/2.819f2315.chunk.js.map",
+    "index.html": "/drogasil/index.html",
+    "precache-manifest.cfab48cc479a12268f9a3a0b1dc11409.js": "/drogasil/precache-manifest.cfab48cc479a12268f9a3a0b1dc11409.js",
+    "service-worker.js": "/drogasil/service-worker.js",
+    "static/js/2.819f2315.chunk.js.LICENSE.txt": "/drogasil/static/js/2.819f2315.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d1fce72.js",
-    "static/js/2.799101fd.chunk.js",
-    "static/js/main.c8351b49.chunk.js"
+    "static/js/runtime-main.daee361f.js",
+    "static/js/2.819f2315.chunk.js",
+    "static/js/main.6ee5a646.chunk.js"
   ]
 }
